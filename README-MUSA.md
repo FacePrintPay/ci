@@ -33,3 +33,5 @@ GG_BUILD_MUSA=1 bash ./ci/run.sh /ci-results /ci-cache
 ```
 
 This setup ensures that the CI runs within an isolated Docker environment while maintaining cached files and results across runs.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README-MUSA.md

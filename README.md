@@ -31,3 +31,5 @@ GG_BUILD_MUSA=1 bash ./ci/run.sh ./tmp/results ./tmp/mnt
 - Request a runner token from `ggml-org` (for example, via a comment in the PR or email)
 - Set-up a machine using the received token ([docs](https://docs.github.com/en/actions/how-tos/manage-runners/self-hosted-runners/add-runners))
 - Optionally update [ci/run.sh](https://github.com/ggml-org/llama.cpp/blob/master/ci/run.sh) to build and run on the target platform by gating the implementation with a `GG_BUILD_...` env
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
